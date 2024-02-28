@@ -3,7 +3,7 @@
  
  AI Data Science Student @ RMK College of Engineering and Technology
 
-<img align="right" alt="Coding" width="400" src="https://github.com/ganeshraj-a/ganeshraj-a/assets/79321086/6b4bbc46-e735-4ee8-96da-c6c3ac622647"> <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshraj-a&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshraj-a" /> </p>
+<img align="right" alt="Coding" width="400" src="https://github.com/ganeshraj-a/ganeshraj-a/assets/79321086/1be3ed09-9c2e-4df2-8648-ab5379ee014f"> <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshraj-a&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshraj-a" /> </p>
 - 🔭 Here's my [Resume](https://drive.google.com/file/d/1bBe543laTHKaa1XItIRO5FGRuF-8NRqp/view?usp=drive_link)                      
 
 - 🙇‍♂️ I’m currently learning Prompt engineering
