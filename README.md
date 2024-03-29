@@ -8,7 +8,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/ganeshraj-a/ganeshraj-a/assets/79321086/68bc77cc-a618-469e-baa7-6a4ec7ca1986"> <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=ganeshraj-a&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshraj-a" /> </p>
-- 🔭 Here's my [Resume](https://drive.google.com/file/d/1bBe543laTHKaa1XItIRO5FGRuF-8NRqp/view?usp=drive_link)                      
+- 🔭 Here's my [portfolio](https://ganeshraj-a.github.io/Portfolio/) and [Resume](https://drive.google.com/file/d/1bBe543laTHKaa1XItIRO5FGRuF-8NRqp/view?usp=drive_link)                      
 
 - 🙇‍♂️ I’m currently learning **Prompt engineering and Generative AI**
 - 👯 I am currently seeking an intern in the field of Data Science.
